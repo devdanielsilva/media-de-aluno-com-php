@@ -1,5 +1,5 @@
 <?php 
-$nota1 = 6;
+$nota1 = 6;//Toda variável em php, com $ cifrão na frente.
 $nota2 = 8;
 $media = ($nota1 + $nota2)/2;
 /*Podemos usar o print ou o echo para apresentar os resultados na tela. Tem outros... */
