@@ -1,6 +1,7 @@
 <?php 
 $nota1 = 6;//Toda variável em php, começa com o $ cifrão na frente.
-$nota2 = 8;
+$nota2 = 8; 
+/*Php não é tipada, ou seja, ele é como Javascript, os tipos das variáveis são definidos dinamicamente */
 $media = ($nota1 + $nota2)/2;
 /*Podemos usar o print ou o echo para apresentar os resultados na tela. Tem outros... */
 print 'A média do aluno é ' .$media . '<br>';
